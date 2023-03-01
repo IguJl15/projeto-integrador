@@ -1,4 +1,16 @@
-# Projeto Inregrador I
+<div align="center">
+
+##### Projeto Integrador I
+
+# IFPI Whatsapp Bot News
+
+### Bot de direcionamento de notícias
+
+</div>
+
+---
+
+**IFPI Whatsapp Bot News** é um bot para triagem de notícias a a partir de palavras chaves
 
 ## Equipe
 
@@ -10,24 +22,24 @@
 
 - Github Project
 
-## Temas propostos
+## *Direitos & Deveres* do usuário
 
-### Bot de direcionamento de notícias
-- IFPI Whatsapp Bot News
-- Área a que se aplica: comunicação
-- Problemática: Triagem de notícias relevantes a diversos temas e áreas
+### 1. O usuário deverá
 
-### Encurtador de Links
-- Link Amandator
-- Área a que se aplica: segurança
-- Problemática: Falta de transparência e segurança em serviços de encurtadores de links que devem ser privados. 
+- Se cadastrar
+  - O número de telefone é obrigatório
+  - O número de telefone deve ser verificado a cada 3 meses
+- Ser administrador para direcionar notícias para um grupo
+  - Para adicionar o **IFPI Whatsapp Bot News** ao grupo, você deve ser um administrador
+  - O Bot somente encaminhará mensagens enquanto você se manter como administrador do grupo
 
-### Forum anônimo de discussões diversas
-- Nome
-- Área a que se aplica:
-- Problemática:
+### 2. O usuário poderá...
 
-### Rede anti-social
-- Nome
-- Área a que se aplica:
-- Problemática:
+- Visualizar últimas notícias do IFPI na Tela inicial da aplicação
+- Visualizar os termos (palavras cahve) indexados àquelas notícias e realizar pesquisa para consulta
+- Cadastrar um Direcionamento
+  - Escolher termos de inclusão
+  - Escolher termos de exclusão
+  - Cadastrar o grupo ao qual será direcionado as notícias encontradas
+- Gerenciar Direcionamentos
+  - Editar, excluir, suspender, etc.
