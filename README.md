@@ -44,7 +44,7 @@
 - Gerenciar Direcionamentos
   - Editar, excluir, suspender, etc.
 
-#### Funcionalidades gerais do sistema
+### backlog extraído a partir dos requisitos
 
 | Acesso |    Contexto    | Descrição                               | Tipo           | Complexidade |
 |:------:|:--------------:|-----------------------------------------|----------------|--------------|
@@ -65,3 +65,29 @@
 |   bot  |       Bot      | Algoritmo de scrap de noticias          | Principal      | Média        |
 |   bot  |       Bot      | Rotina de envio de mensagens a grupos   | Principal      | Alta         |
 |   bot  |       Bot      | Verificar se o usuário é admin          | Principal      | Média        |
+
+## Prototipação
+
+### Wireframes
+
+#### Fluxo feliz
+
+- ##### Entrar na aplicação (Login)
+
+  ![Login Wireframe](docs/images/login-wireframe.png)
+
+- ##### Visualizar pagina inicial
+
+  ![Login Wireframe](docs/images/dashboard.png)
+
+- ##### Criar um novo direcionamento (definir termos)
+
+  ![Login Wireframe](docs/images/create-1.png)
+
+- ##### Criar um novo direcionamento (escolher contato do WhatsApp)
+
+  ![Login Wireframe](docs/images/create-2.png)
+
+- ##### Visualizar seus direcionamentos
+
+  ![Login Wireframe](docs/images/directors.png)
