@@ -4,7 +4,7 @@
 
 # IFPI Whatsapp Bot News
 
-### Bot de direcionamento de notícias
+Bot de direcionamento de notícias
 
 </div>
 
@@ -33,7 +33,7 @@
   - Para adicionar o **IFPI WhatsApp Bot News** ao grupo, você deve ser um administrador
   - O Bot somente encaminhará mensagens enquanto você se manter como administrador do grupo
 
-### 2. O usuário poderá...
+### 2. O usuário poderá
 
 - Visualizar últimas notícias do IFPI na Tela inicial da aplicação
 - Visualizar os termos (palavras chave) indexados àquelas notícias e realizar pesquisa para consulta
